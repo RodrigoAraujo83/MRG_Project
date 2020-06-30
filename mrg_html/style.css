@@ -237,3 +237,9 @@ h1{
    margin-left: 30px;
    color: #fff;
 }
+.texto{
+    display: block;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+}
